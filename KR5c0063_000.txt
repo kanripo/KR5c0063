@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:17:38.516072
+# -*- mode: mandoku-view -*-
 #+TITLE: 宋徽宗禦解道德真經
-#+PROPERTY: DZID  DZ0680
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，11—843 四卷 洞神部玉訣類
+#+DATE: 2015-08-29 00:17:40
+#+PROPERTY:  LASTPB <PB KR5c0063_SJB_004-110875b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶
+
